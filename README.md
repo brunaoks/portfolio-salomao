@@ -26,7 +26,7 @@
 <img src="https://user-images.githubusercontent.com/102770109/207201068-572a5c93-1ce9-442c-ba75-4d3e437f6bbd.jpg" width="450px" />
 </div>
 
-> Meu portfólio pessoal desenvolvido com HTML5 e CSS3. Para acessar o projeto <a href="https://brunaoks.github.io/portfolio-salomao/" target="_blank">Clique aqui.</a>
+> Meu portfólio pessoal desenvolvido com HTML5, CSS3 e JavaScript. Para acessar o projeto <a href="https://brunaoks.github.io/portfolio-salomao/" target="_blank">Clique aqui.</a>
 
 ## 🛠️ Ajustes e melhorias
 
