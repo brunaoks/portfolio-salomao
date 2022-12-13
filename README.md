@@ -33,7 +33,8 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Responsividade. <br>
-- [x] Dark mode.
+- [x] Dark mode. <br>
+- [ ] Ajuste da imagem do sobre mim.
 
 ## 💻 Pré-requisitos
 
