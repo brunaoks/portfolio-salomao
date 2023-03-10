@@ -28,6 +28,7 @@ section {
 body.active {
   --text-color: #fff;
   --bg-color: #242424;
+  --main-color: #0066ff;
 }
 
 body {
