@@ -34,7 +34,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações�
 
 - [x] Responsividade. <br>
 - [x] Dark mode na página principal. <br>
-- [ ] Ajuste da imagem do sobre mim. <br>
 - [ ] Dark mode na página de projetos.
 
 ## 💻 Pré-requisitos
