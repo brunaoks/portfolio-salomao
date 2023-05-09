@@ -439,8 +439,8 @@ form textarea {
 
 @media (max-width: 768px) {
   :root {
-    --big-font: 2.4rem;
-    --medium-font: 1.2rem;
+    --big-font: 2.3rem;
+    --medium-font: 1.1rem;
   }
 
   header {
@@ -486,7 +486,7 @@ form textarea {
   }
 
   .home {
-    grid-template-columns: 0.5fr 3fr;
+    display: flex;
   }
 
   .home-text {
