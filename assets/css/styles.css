@@ -269,11 +269,19 @@ span {
 }
 
 .css-bar {
-  width: 60%;
+  width: 70%;
 }
 
 .js-bar {
-  width: 20%;
+  width: 40%;
+}
+
+.git-bar {
+  width: 25%;
+}
+
+.react-bar {
+  width: 15%;
 }
 
 
