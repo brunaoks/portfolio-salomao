@@ -123,9 +123,6 @@ header.shadow {
   visibility: hidden;
 }
 
-/* .home-text {
-} */
-
 .home-img {
   order: 3;
 }
@@ -181,6 +178,10 @@ header.shadow {
   background: var(--hover);
 }
 
+.about {
+  visibility: hidden;
+}
+
 .about-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -216,6 +217,10 @@ header.shadow {
 .information .info-box span {
   font-weight: 400;
   margin-left: 1rem;
+}
+
+.skills {
+  visibility: hidden;
 }
 
 .skills-container {
@@ -286,6 +291,10 @@ span {
   width: 15%;
 }
 
+.services {
+  visibility: hidden;
+}
+
 .services-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, auto));
@@ -338,6 +347,10 @@ span {
 
 .services-box:hover a {
   color: #8b8a8f;
+}
+
+.contact {
+  visibility: hidden;
 }
 
 .contact-form {

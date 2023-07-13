@@ -2,9 +2,12 @@ window.sr = ScrollReveal({ reset: true });
 
 sr.reveal({ distance: "60px" });
 
-sr.reveal(".home, .about, .skills, .services, .contact, .content--projects", {
-  duration: 1000,
-});
+sr.reveal(
+  ".home, .about, .skills, .services, .contact, .content--projects, .cards--wrapper",
+  {
+    duration: 1500,
+  }
+);
 
 let header = document.querySelector("header");
 let menu = document.querySelector("#menu-icon");
