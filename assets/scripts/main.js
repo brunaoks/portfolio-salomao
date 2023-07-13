@@ -1,3 +1,11 @@
+window.sr = ScrollReveal({ reset: true });
+
+sr.reveal({ distance: "60px" });
+
+sr.reveal(".home, .about, .skills, .services, .contact, .content--projects", {
+  duration: 1000,
+});
+
 let header = document.querySelector("header");
 let menu = document.querySelector("#menu-icon");
 let navbar = document.querySelector(".navbar");

@@ -66,8 +66,7 @@ header {
   background: var(--bg-color);
   padding: 13px 10%;
   transition: 0.2s;
-  box-shadow: -3px -3px 7px #ffffff73,
-    2px 2px 5px rgba(94, 104, 121, 0.288);
+  box-shadow: -3px -3px 7px #ffffff73, 2px 2px 5px rgba(94, 104, 121, 0.288);
 }
 
 header.shadow {
@@ -121,7 +120,11 @@ header.shadow {
   grid-template-columns: 0.2fr 1fr 1fr;
   align-items: center;
   gap: 1rem;
+  visibility: hidden;
 }
+
+/* .home-text {
+} */
 
 .home-img {
   order: 3;
@@ -177,7 +180,6 @@ header.shadow {
 .btn:hover {
   background: var(--hover);
 }
-
 
 .about-container {
   display: grid;
@@ -283,7 +285,6 @@ span {
 .react-bar {
   width: 15%;
 }
-
 
 .services-content {
   display: grid;
@@ -398,7 +399,7 @@ form textarea {
 .footer h2 {
   font-size: 1.5rem;
   margin-bottom: 1.6rem;
-  color: var(--text-color)
+  color: var(--text-color);
 }
 
 .footer-social a i {

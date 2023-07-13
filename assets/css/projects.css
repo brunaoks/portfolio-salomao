@@ -21,7 +21,6 @@
   --p-font: 0.941rem;
 }
 
-
 body {
   background-color: #101010;
 }
@@ -59,6 +58,7 @@ img {
   flex-wrap: wrap;
   gap: 60px;
   margin-top: 100px;
+  visibility: hidden;
 }
 
 .cards--wrapper {
